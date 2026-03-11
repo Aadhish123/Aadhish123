@@ -6,7 +6,7 @@ You can copy this content and paste it into the README.md of a repository named 
 <h1 align="center">Hi there, I'm Aadhish N! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3670A0&center=true&vCenter=true&width=600&lines=Computer+Science+Engineering+Student;Machine+Learning+Enthusiast;Passionate+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3670A0&center=true&vCenter=true&width=600&lines=Computer+Science+Engineering+Student;Software+Developer;Passionate+Problem+Solver" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -28,7 +28,6 @@ I am a motivated and adaptable Computer Science Engineering student with a stron
 
 - 🎓 B.E. in Computer Science and Engineering @ **Sri Venkateswara College of Engineering** (2023 - Present)
 - 💼 Former Data Analytics Intern @ **TAFE** & Web Team Member @ **ACE SVCE**
-- 🌱 I’m currently exploring deeper concepts in **Machine Learning** and building innovative applications.
 - 👯 I’m open to collaborating on open-source projects, ML models, and web development.
 - 📫 Reach out to me at: **[aadhishn72@gmail.com](mailto:aadhishn72@gmail.com)**
 
